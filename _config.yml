@@ -5,11 +5,11 @@ keyword: 'HZPUG,Python'
 url: 'https://istommao.github.io/HZPUG.github.io/' # your host
 
 # if you don't need baseurl, you should leave this value blank.
-baseurl: '/HZPUG.github.io/'
+baseurl: '/HZPUG.github.io'
 
 # Navigation links
 nav:
-  home: '/HZPUG.github.io/'
+  home: '/HZPUG.github.io'
   tags: '/HZPUG.github.io/tags.html'
 
 # Footer
